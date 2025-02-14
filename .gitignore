@@ -1,2 +1,3 @@
 .venv/
-chromedrive.exe
+chromedriver.exe
+.vscode/
